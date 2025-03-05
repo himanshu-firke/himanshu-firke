@@ -20,7 +20,7 @@ I'm an aspiring **Computer Engineer** with a strong foundation in **AI/ML, Web D
 🔗 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshufirke/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/himanshu-firke/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/himanshufirke/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Himanshu-Firke01/)
 
 ---
 
