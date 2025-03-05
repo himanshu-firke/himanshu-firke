@@ -1,46 +1,57 @@
-<h1 align="center">Hi 👋, I'm Himanshu Firke</h1>
+## Hi there, I'm **Himanshu Firke!** 👋
 
-- 🔭 I’m currently working on **Backend Development & DSA**  
-- 🌱 I’m currently learning **System Design & Cloud Computing**  
-- 💬 Ask me anything about **Backend, DSA, and Java**  
-- 📫 How to reach me: **himanshufirke6@gmail.com**  
-- ⚡ Fun fact: **I turn caffeine into code ☕**  
+🚀 **Passionate Developer | AI & ML Enthusiast | Problem Solver**
 
 ---
 
-### 🚀 Tech Stack:
-#### 🏗️ Backend Development:
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,docker,nginx,redis&perline=5)](https://skillicons.dev)  
+## 🛠 About Me
+I'm an aspiring **Computer Engineer** with a strong foundation in **AI/ML, Web Development, and Software Engineering**. I love solving complex problems and building innovative solutions that make a difference.
 
-#### 📱 Frontend & Mobile:
-[![Frontend Skills](https://skillicons.dev/icons?i=react,html,css,js,flutter,dart&perline=5)](https://skillicons.dev)  
+### ✨ Tech Stack
+- **💻 Languages:** Java, Python, JavaScript, C, C++
+- **🌐 Web Development:** HTML, CSS, Bootstrap, Tailwind CSS, ReactJS, NodeJS, ExpressJS
+- **📊 AI/ML:** TensorFlow, Keras, PyTorch, Pandas, NumPy
+- **🛢 Databases:** SQL, MySQL, MongoDB
+- **🔧 Tools:** Git, GitHub, Postman, Android Studio
 
-#### ⚙️ DevOps & Tools:
-[![DevOps Skills](https://skillicons.dev/icons?i=git,github,postman,figma,linux,vscode,aws,gcp&perline=5)](https://skillicons.dev)  
+📫 **Reach me at:** [himanshufirke6@gmail.com](mailto:himanshufirke6@gmail.com)  
+📞 **Call me:** [+91 7038253789](tel:+917038253789)
 
----
-
-### 📲 Connect with me:
-<div id="badges">
-  <a href="https://github.com/himanshu-firke">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/himanshufirke/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- <a href="https://leetcode.com/u/Himanshu-Firke01/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-
-</div>
+🔗 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-firke/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/himanshu-firke/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/himanshu_firke/)
 
 ---
 
-### 📊 GitHub Stats:
-![Himanshu Firke's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu-firke&show_icons=true&theme=dark)  
+## 📌 Experience
+### 🔹 **Intern @ Kaltro Enterprises** *(Jan 2024 – Present)*  
+- Gaining hands-on experience in **Software Development and Web Technologies**.  
+- Working on real-world projects and enhancing **problem-solving skills**.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-firke&theme=dark&layout=compact)  
+### 🔹 **Android Developer | Personal Project**  
+- Developed an **Android app** that allows users to save fake numbers and receive real-looking incoming calls.  
+- Implemented **Firebase for authentication**, and **Google Maps API** for location tracking.  
 
-<br>
+### 🔹 **Web Developer | Investment Website**  
+- Built an **investment website** where users can **buy/sell stocks, manage portfolios, view trading charts, and access financial blogs**.  
+- Used **HTML, CSS, JavaScript, Tailwind CSS, MySQL, PHP, Python**.  
 
-⭐️ From [Himanshu Firke](https://github.com/himanshu-firke)
+---
+
+## 🏆 Achievements
+🏅 **Developed a Women’s Safety App & Participated in a Hackathon**  
+🥇 **Built a Hospital Locator Website with Advanced Features**  
+🥈 **Active Competitive Programmer on LeetCode**  
+
+---
+
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-firke&show_icons=true&theme=radical" alt="Himanshu's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-firke&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+🎯 **Looking for Collaboration?** I'm always open to working on innovative projects! Feel free to **reach out!** 🚀
