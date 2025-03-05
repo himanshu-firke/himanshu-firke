@@ -18,9 +18,9 @@ I'm an aspiring **Computer Engineer** with a strong foundation in **AI/ML, Web D
 📞 **Call me:** [+91 7038253789](tel:+917038253789)
 
 🔗 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-firke/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshufirke/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/himanshu-firke/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/himanshu_firke/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/himanshufirke/)
 
 ---
 
