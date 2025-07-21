@@ -25,7 +25,7 @@ I'm an aspiring **Computer Engineer** with a strong foundation in **AI/ML, Web D
 ---
 
 ## 📌 Experience
-### 🔹 **Intern @ Kaltro Enterprises** *(Jan 2024 – Present)*  
+### 🔹 **Intern @ Kaltro Enterprises** *(Jan 2024 – April 2024)*  
 - Gaining hands-on experience in **Software Development and Web Technologies**.  
 - Working on real-world projects and enhancing **problem-solving skills**.  
 
