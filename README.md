@@ -76,7 +76,7 @@ I'm an aspiring **Computer Engineer** with expertise in **Full-Stack Development
 - ✅ Message receipts & delivery status
 - ✅ Cross-platform mobile + web deployment
 
-🔗 [Live Demo](YOUR_NETLIFY_LINK) | [GitHub](YOUR_GITHUB_LINK) | [Backend API](YOUR_RENDER_LINK)
+🔗 [Live Demo](https://chatconnnect.netlify.app/) | [GitHub](https://github.com/himanshu-firke/chatconnect-app) | [Backend API](https://chatconnect-app-j8zm.onrender.com/api)
 
 ### 📱 **Fake Call Android App**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -101,16 +101,7 @@ I'm an aspiring **Computer Engineer** with expertise in **Full-Stack Development
 - ✅ Interactive trading charts
 - ✅ Financial news & blog integration
 
-### 🚨 **Women's Safety App** (Hackathon Project)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![Location Services](https://img.shields.io/badge/Location_Services-4285F4?style=flat-square&logo=google-maps&logoColor=white)
 
-**Emergency safety application with real-time alerts**
-- ✅ SOS emergency alerts
-- ✅ Real-time location sharing
-- ✅ Safety network management
-- ✅ Emergency contact integration
 
 ---
 
