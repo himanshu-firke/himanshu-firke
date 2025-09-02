@@ -76,7 +76,7 @@ I'm an aspiring **Computer Engineer** with expertise in **Full-Stack Development
 - ✅ Message receipts & delivery status
 - ✅ Cross-platform mobile + web deployment
 
-🔗 [Live Demo](https://chatconnnect.netlify.app/) | [GitHub](https://github.com/himanshu-firke/chatconnect-app) | [Backend API](https://chatconnect-app-j8zm.onrender.com/api)
+🔗 [Live Demo](https://chatconnnect.netlify.app/) | [GitHub](https://github.com/himanshu-firke/chatconnect-app) | 
 
 ### 📱 **Fake Call Android App**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
