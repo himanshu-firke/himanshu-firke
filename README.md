@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Mobile+App+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Software+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-I'm an aspiring **Computer Engineer** with expertise in **Full-Stack Development, AI/ML, and Mobile App Development**. I specialize in building scalable, user-centric applications that solve real-world problems with modern technologies.
+I'm an aspiring **Computer Engineer** with expertise in **Full-Stack MERN Development**. I specialize in building scalable, user-centric web applications and robust backend architectures tailored for real-world problems.
 
-🎯 **Currently focused on:** Real-time applications, AI integration, and mobile-first solutions
+🎯 **Currently focused on:** Full-stack web applications, REST APIs, system architecture, and modern UI/UX
 
 ---
 
@@ -20,104 +20,95 @@ I'm an aspiring **Computer Engineer** with expertise in **Full-Stack Development
 
 ### **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PHP](https://img.shields.io/badge/Laravel(PHP)-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-### **Tools & Platforms**
+### **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔥 **ChatConnect** - Real-time Chat Application
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### 🏙️ **Civic Issue Reporting System**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
 
-**Professional-grade real-time messaging platform with enterprise features**
-- ✅ JWT Authentication & Security
-- ✅ Real-time messaging with Socket.IO
-- ✅ User presence tracking & typing indicators
-- ✅ Message receipts & delivery status
-- ✅ Cross-platform mobile + web deployment
+**Automated civic complaint lifecycle platform**
+- ✅ MERN stack application with JWT-based secure authentication
+- ✅ Map integration via Leaflet/OpenStreetMap for GPS location
+- ✅ Image uploads and automated task assignment
+- ✅ Improved complaint tracking transparency
 
-🔗 [Live Demo](https://chatconnnect.netlify.app/) | [GitHub](https://github.com/himanshu-firke/chatconnect-app) | 
+🔗 [GitHub Repo](https://github.com/himanshu-firke/smart-civic-reporting)
 
-### 📱 **Fake Call Android App**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white)
+### 📹 **Streamify - Real-Time Chat & Video**
+![React (Vite)](https://img.shields.io/badge/React_Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-**Innovative Android application for simulated incoming calls**
-- ✅ Realistic call interface simulation
-- ✅ Firebase authentication & data storage
-- ✅ Google Maps API integration
-- ✅ Contact management system
+**Full-stack platform for smooth real-time messaging and WebRTC video calling**
+- ✅ Implemented Stream Video & Chat SDKs along with WebSockets
+- ✅ Scalable backend API built with Node.js and Express
+- ✅ Fast, optimized frontend using React (Vite)
 
-### 💰 **Investment Trading Platform**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+🔗 [GitHub Repo](https://github.com/himanshu-firke/realtime-hub/tree/develop)
+
+### 🛒 **ShopSphere Elite**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Comprehensive stock trading and portfolio management platform**
-- ✅ Real-time stock trading simulation
-- ✅ Portfolio management & analytics
-- ✅ Interactive trading charts
-- ✅ Financial news & blog integration
+**Modern e-commerce platform for curated gadgets**
+- ✅ Core e-commerce workflows (product catalog, cart, orders)
+- ✅ Backend managed using Laravel (PHP) and MySQL
+- ✅ Scalable frontend crafted using React and TypeScript
+- ✅ Role-based dashboards and RESTful API integration
 
-
+🔗 [GitHub Repo](https://github.com/himanshu-firke/ShopSphere_Elite)
 
 ---
 
 ## 💼 Professional Experience
 
 ### **Software Development Intern** | *Kaltro Enterprises*
-![Duration](https://img.shields.io/badge/Duration-Jan_2024_–_April_2024-blue?style=flat-square)
+![Duration](https://img.shields.io/badge/Duration-Jun_2023_–_Aug_2023-blue?style=flat-square)
 
-- 🔹 Developed responsive web applications using modern JavaScript frameworks
-- 🔹 Collaborated on enterprise-level projects enhancing technical expertise
-- 🔹 Implemented best practices in software development lifecycle
-- 🔹 Gained hands-on experience with agile methodologies and team collaboration
+- 🔹 Built responsive and user-friendly interfaces using **HTML, CSS, JavaScript, and React**, enhancing UI performance.
+- 🔹 Integrated **REST APIs** to effectively fetch and render dynamic data, creating seamless MERN/frontend interactions.
+- 🔹 Collaborated using **Git** following SDLC practices for seamless testing and deployment support.
 
 ---
 
 ## 🏆 Achievements & Recognition
 
-🥇 **Hackathon Participant** - Women's Safety App Development  
-🥈 **Healthcare Innovation** - Hospital Locator System with Advanced Features  
-🥉 **Competitive Programming** - Active contributor on LeetCode platform  
-📜 **Full-Stack Certification** - Comprehensive web development training  
-🎖️ **AI/ML Projects** - Multiple machine learning model implementations  
-🏅 **Open Source Contributor** - Active GitHub community member  
+🥇 **Hackathon Winner** - 1st place among 100+ teams by developing an intelligent system  
+🥇 **DSA Competition Winner** - 1st place in 3+ DSA competitions showcasing problem-solving logic  
+🏅 **NPTEL Excellence** - Programming in Java (Elite + Gold, 90/100, Top 2% nationwide)  
 
 ---
 
@@ -130,8 +121,6 @@ I'm an aspiring **Computer Engineer** with expertise in **Full-Stack Development
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-firke&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshu-firke&theme=tokyonight&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu-firke&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -147,24 +136,15 @@ I'm an aspiring **Computer Engineer** with expertise in **Full-Stack Development
 
 ---
 
-## 🎯 Current Focus & Goals
-
-🔹 **Mastering:** Advanced React Native development & real-time applications  
-🔹 **Learning:** Cloud architecture, microservices, and DevOps practices  
-🔹 **Building:** AI-powered mobile applications with workflow automation  
-🔹 **Exploring:** Web3 technologies and blockchain integration  
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshu-portfolio-01.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshufirke/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshu-firke/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Himanshu-Firke01/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshufirke6@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917038253789)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshufirke04@gmail.com)
 
 </div>
 
@@ -172,25 +152,10 @@ I'm an aspiring **Computer Engineer** with expertise in **Full-Stack Development
 
 <div align="center">
 
-### 💡 *"The best way to predict the future is to create it."* – Peter Drucker
+### 💡 *"The best way to predict the future is to create it."*
 
-**🚀 Always open to exciting opportunities and innovative collaborations!**
+**🚀 Always open to exciting MERN Stack and Full-Stack opportunities!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=himanshu-firke&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/himanshu-firke?style=for-the-badge&color=blue&labelColor=black)
-![GitHub stars](https://img.shields.io/github/stars/himanshu-firke?style=for-the-badge&color=yellow&labelColor=black)
-
-</div>
-
----
-
-## 📬 Get In Touch
-
-<div align="center">
-
-**📧 Email:** [himanshufirke6@gmail.com](mailto:himanshufirke6@gmail.com)  
-**📱 Phone:** [+91 7038253789](tel:+917038253789)  
-**🌍 Location:** India  
-**💼 Status:** Open to opportunities  
 
 </div>
