@@ -13,7 +13,7 @@
 
 &nbsp;
 
-##  Quick Introduction
+## Quick Introduction
 
 ```json
 {
@@ -62,7 +62,7 @@
 
 ## Projects
 
-### AI RAG Interviewer
+### AI RAG Interviewer <a href="https://github.com/himanshu-firke/AI-RAG-Interviewer"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="16"></a>
 > Full-stack AI interview platform with FastAPI, JWT auth, ChromaDB vector store and Groq LLMs
 
 - Designed 10+ REST endpoints across 5 data models with role-based access control
@@ -72,7 +72,7 @@
 
 &nbsp;
 
-### Civic Issue Reporting System
+### Civic Issue Reporting System  <a href="https://github.com/himanshu-firke/smart-civic-reporting"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="16"></a>
 > Full-stack civic platform with JWT auth, role-based access and real-time GPS location tagging
 
 - Reduced API response time by ~40% via indexed MongoDB aggregations across 3 user tiers
@@ -82,7 +82,7 @@
 
 &nbsp;
 
-### AI Traffic Management System
+### AI Traffic Management System <a href="https://github.com/himanshu-firke/AI-Traffic-Intelligence"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="16"></a>
 > Real-time traffic monitoring streaming telemetry from 4 intersection nodes via WebSocket microservices
 
 - End-to-end latency under 200ms — vehicle wait time reduced by 40% using YOLOv8/OpenCV
@@ -92,12 +92,13 @@
 
 &nbsp;
 
-### DSA Visualizer
-> Interactive web tool visualizing sorting algorithms, graph traversals and tree operations in real time
+### Realtime Hub <a href="https://github.com/himanshu-firke/realtime-hub"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="16"></a> <sup>🚧 In Progress</sup>
+> Full-stack realtime communication platform with JWT auth, chat, presence and video calling
 
-- Step-by-step animations for classic DSA concepts — designed for learning and interview prep
+- Real-time messaging and online presence tracking with Stream integration
+- Video calling support with user authentication and MongoDB-backed persistence
 
-`JavaScript` `HTML5` `CSS3`
+`React` `Express.js` `MongoDB` `Stream` `JWT`
 
 &nbsp;
 
@@ -139,8 +140,6 @@
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshufirke/)
-&nbsp;
 [![Email](https://img.shields.io/badge/himanshufirke04@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:himanshufirke04@gmail.com)
 
 </div>
